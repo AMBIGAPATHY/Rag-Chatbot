@@ -1,0 +1,28 @@
+/* frontend/app/globals.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
+  text-align: center;
+}
+
+.container {
+  padding: 2rem;
+}
+
+.title {
+  font-size: 3rem;
+  color: #fff;
+}
+
+.description {
+  font-size: 1.5rem;
+  color: #f8f8f8;
+}
+
+.footer {
+  margin-top: 2rem;
+  font-size: 1rem;
+  color: #fff;
+}
