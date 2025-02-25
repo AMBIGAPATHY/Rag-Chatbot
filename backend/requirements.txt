@@ -1,0 +1,12 @@
+fastapi==0.80.0
+uvicorn==0.18.3
+weaviate-client==3.7.0
+requests>=2.31.0
+urllib3>=2.0.0
+sentence-transformers==2.2.0
+python-dotenv==0.19.2
+beautifulsoup4==4.10.0
+selenium==4.1.0
+webdriver-manager==3.5.2
+google-generativeai
+sentence-transformers
